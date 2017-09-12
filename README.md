@@ -44,3 +44,27 @@
 
 **图片**
 ![image](http://www.baidu.com/img/bd logo1.png)
+
+```js
+function show(){
+
+}
+```
+
+```html
+<p>
+	样式 <a href="http://baidu.com">链接</a>
+</p>
+```
+
+内联的代码`alert('hello word')`
+内联的代码
+
+header 1 | header 2 | header 3
+--- | --- | --- |
+row 1 col 1 | row 2 col 2 | 3
+row 1 col 1 | row 2 col 2 | 3
+
+
+
+
